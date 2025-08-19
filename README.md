@@ -12,10 +12,9 @@ Using a dataset of recent Canadian wildfires (26,000+ records, 66 features), the
 
 # Tools & Technologies
 - **Python** (Pandas, Scikit-learn, XGBoost, Random Forest)  
-- **SQL / MySQL** (Schema design, ETL, queries)  
 - **AWS S3** (data storage & pipeline integration)  
 - **Power BI** (data visualization & interactive dashboards)  
-- **Jupyter Notebook** for modeling & analysis  
+- **Jupyter Notebook** for modeling analysis  &  ETL
 
 ##  Key Results
 - **Model Accuracy:** 99%+ (Random Forest & XGBoost)  
